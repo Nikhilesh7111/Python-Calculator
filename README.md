@@ -15,7 +15,7 @@ This repository contains a Python-based calculator application designed to perfo
 1. Clone the repository to your local machine.
 2. Ensure Python is installed on your system.
 3. Navigate to the project directory.
-4. Run the script `python_calculator.py` from your command line or Python IDE.
+4. Run the script `python_calculator.ipynb` from your command line or Python IDE.
 
 ## Usage
 Upon running the application, users will be prompted to enter the numbers and select the desired arithmetic operation. The calculator will then display the result of the calculation.
